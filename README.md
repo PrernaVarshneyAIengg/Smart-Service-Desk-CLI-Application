@@ -36,7 +36,7 @@ Navigate to the project directory:
 cd smart-service-desk
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with the HTTPS or SSH URL of your GitHub repository.
+Replace https://github.com/PrernaVarshneyAIengg/Smart-Service-Desk-CLI-Application.git with the HTTPS or SSH URL of your GitHub repository.
 
 ### 2. Create a Virtual Environment
 
